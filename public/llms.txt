@@ -1,0 +1,66 @@
+# טסט של עידו — Generative Engine Optimization Map
+
+> אתר לעורך דין המתמחה בנדל
+
+---
+
+## Pages
+
+### Home
+https://-ec521438.zappy5.app
+אתר לעורך דין המתמחה בנדל
+
+### עו"ד נדל"ן
+https://-ec521438.zappy5.app/home
+
+## Legal & Policy
+
+### Privacy Policy
+https://-ec521438.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-ec521438.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-ec521438.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About טסט של עידו
+אתר לעורך דין המתמחה בנדל
+
+## Services/Products
+- עורך דיןנדל"ן
+- ניסיון רב שניםבעסקאות נדל"ן
+- השירותים שלנו
+- רכישת דירה
+- מכירת נכס
+- נדל"ן מסחרי
+
+## Target Audience
+- לקוחות שמחפשים עורך דיןנדל"ן
+- לקוחות מחפשים עורך דין נדל"ן
+- משקיעי נדל"ן
+- רוכשי דירה לראשונה
+
+## Industry
+General
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-ec521438.zappy5.app/sitemap.xml
+- Robots: https://-ec521438.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-ec521438.zappy5.app/llms-full.txt
